@@ -38,5 +38,5 @@ A comprehensive desktop application built in Python using Tkinter and SQLite for
 ### 🔹 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/school-finance-management-system.git
+git clone https://github.com/ProfStephanos/school-finance-management-system.git
 cd school-finance-management-system
